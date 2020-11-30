@@ -1,4 +1,4 @@
-This is a list of resources  related to the concept of Rules as Code (and Computational Law)
+This is a list of resources  related to the concept of Rules as Code
 
 ## Concept
 
@@ -11,13 +11,9 @@ This is a list of resources  related to the concept of Rules as Code (and Comput
 ### Background
 Traditional models of creating, managing, and improving government rules (policy, legislation, regulation, etc) were developed for a non-digital environment. This can result in mismatch between intent and implementation (sometimes called the implementation gap).
 
-Much of the work around RaC emerged from the New Zealand Service Innovation Lab, headed by Pia Andrews. They ran experiments that brought programmers into mock legislative drafting processes.
-** Find some more articles and sources on this
+As legislation, regulation, and policy changes, we want to be able to measure the impact that the change will have on the population that the rule affects. If a rule can be made machine-consumable, then it can take advantage of many automated processes. This includes the ability to run simulations on sample individuals/households/populations to see how the change might affect them. This is a big step towards evidence-based policy.
 
-### Benefits
-- Removes ambiguities from unclearly written rules
-- If it is machine-consumable, then we can take advantage of automation and computers
-- It is easier to change rules. If the RaC are encoded in software, we can run tests to measure simulations on the potential impact of the change
+The process of converting written rules to 'Rules as Code' will be a collaborative process between technologists and legislators, since it is important to preserve the legal intent of the law that is being encoded. This process may also serve to highlight ambiguities that are already present in the written law, and motivate the idea of a multi-disciplinary approach when creating new rules.
 
 ### Legal considerations
 RaC is closely aligned with the concept of [Legal Formalism](https://en.wikipedia.org/wiki/Legal_formalism), which is the idea that laws should be clear and uncontroversial, so they can be applied unscrupulously. This is in contrast with legal realism, which permits arbitrary discretion in legal judgment to balance interests of affected parties on a case-by-case basis. 
@@ -52,10 +48,10 @@ Blawx is a free open-source web tool for encoding rules, created by Jason Morris
 
 ## OpenFisca
 
-[OpenFisca](https://github.com/codeforcanada-babel/main/wiki/openfisca) is an open-source platform for building RaC engines.
+[OpenFisca](https://code-for-canada.github.io/team-babel/wiki/openfisca) is an open-source platform for building RaC engines.
 
 
-## Resources
+## More Resources
 
 MIT Computational Law Blog: https://law.mit.edu/
 
