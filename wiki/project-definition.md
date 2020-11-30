@@ -1,4 +1,4 @@
-This page outlines the evolving definition of the work being done by the team. For original project charter, [visit this page](https://github.com/codeforcanada-babel/main/wiki/Project-Charter).
+This page outlines the evolving definition of the work being done by the team. For original project charter, [visit this page](https://code-for-canada.github.io/team-babel/wiki/project-charter).
 
 ## Motivation
 
