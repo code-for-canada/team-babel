@@ -1,3 +1,7 @@
+## Sprint 1
+
+Nov 23 - Dec 4, 2020
+
 ## Sprint Goals
 - Establish connections with allies
   - BDM team within ESDC
