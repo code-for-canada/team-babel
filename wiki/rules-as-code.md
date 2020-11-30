@@ -50,7 +50,7 @@ Blawx is a free open-source web tool for encoding rules, created by Jason Morris
 - https://law.mit.edu/pub/blawxrulesascodedemonstration/release/1
 - https://www.blawx.com/
 
-## OpenFisca
+### OpenFisca
 
 [OpenFisca](https://code-for-canada.github.io/team-babel/wiki/openfisca) is an open-source platform for building RaC engines.
 
