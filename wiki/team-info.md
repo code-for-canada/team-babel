@@ -4,6 +4,8 @@
 - Sidra Mahmood: UX Designer
 - Regan Meloche: Developer
 
+***
+
 ## Team Values
 
 ### Agile
@@ -22,6 +24,7 @@
 - Make choices that will enable smooth transition by taking cost, capacity, and training needs into account
 - Create processes that can be replicated once the fellowship is over
 
+***
 
 ## Team Processes
 
