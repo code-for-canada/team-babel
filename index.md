@@ -1,6 +1,6 @@
 ## Getting Started
-- Welcome to Team Babel
-- Who we are
+- [Welcome to Team Babel](/wiki/welcome)
+- [Who we are](https://github.com/code-for-canada/team-babel/wiki/team-info)
 - Project Definition
 - Project Charter
 
