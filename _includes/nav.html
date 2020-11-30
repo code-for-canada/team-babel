@@ -1,10 +1,3 @@
-<!-- <p class="babel-nav" style="text-align: center; color:white;">
-  <a href="{{site.baseurl}}/">Home</a> |
-  <a href="{{site.baseurl}}/wiki/welcome">Welcome</a> | 
-  <a href="{{site.baseurl}}/wiki/team-info/">Who we are</a> | 
-  <a href="{{site.baseurl}}/wiki/project-charter">Project Charter</a> | 
-  <a href="{{site.baseurl}}/wiki/project-definition">Project Definition</a> | 
-</p> -->
 
 <nav class="navbar navbar-expand-lg navbar-dark">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -19,6 +12,17 @@
       <li class="nav-item">
         <a class="nav-link" href="{{site.baseurl}}/wiki/team-info">Team</a>
       </li>
+      
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Project
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="{{site.baseurl}}/wiki/project-charter">Project Charter</a>
+          <a class="dropdown-item" href="{{site.baseurl}}/wiki/project-definition">Project Definition</a>
+        </div>
+      </li>
+
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Reference
@@ -29,6 +33,7 @@
           <a class="dropdown-item" href="{{site.baseurl}}/wiki/nlp">NLP</a>
         </div>
       </li>
+      
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Sprints
