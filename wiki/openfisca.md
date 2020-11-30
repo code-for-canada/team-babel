@@ -1,31 +1,30 @@
 OpenFisca is an open-source platform that allows you to perform various operations on Rules as Code. It has been used by various countries for different proofs of concept.
 
 Links:
-- Main page: https://openfisca.org/en/
-- Documentation: https://openfisca.org/doc/
-- Manual: https://buildmedia.readthedocs.org/media/pdf/openfisca/latest/openfisca.pdf
+- [Main page](https://openfisca.org/en/)
+- [Documentation](https://openfisca.org/doc/)
+- [Manual](https://buildmedia.readthedocs.org/media/pdf/openfisca/latest/openfisca.pdf)
 
-Team presentation (sprint 1 - Nov 2020): 
-- https://drive.google.com/file/d/1kjnBdLlQWoa2ruEqGlJvj6q-G9ZnGrnN/view?usp=sharing
+[Team presentation](https://drive.google.com/file/d/1kjnBdLlQWoa2ruEqGlJvj6q-G9ZnGrnN/view?usp=sharing)
 
 Github repos:
-- Main: https://github.com/openfisca
-- Country template: https://github.com/openfisca/country-template/
-- Core: https://github.com/openfisca/openfisca-core
+- [Main](https://github.com/openfisca)
+- [Country template](https://github.com/openfisca/country-template/)
+- [Core](https://github.com/openfisca/openfisca-core)
 
 ## France
 
 ### Basic income project
-- Link: https://www.revenudebase.info/actualites/apprehender-cout-dun-revenu-de-base/
+- [Link](https://www.revenudebase.info/actualites/apprehender-cout-dun-revenu-de-base/)
 
 ### LexImpact
 
 This is a tool to measure impact of policy changes related to income tax rates... Add more info here
 
-- Project page: https://fr.openfisca.org/showcase/leximpact/
-- Application: https://leximpact.an.fr/
-- Client code: https://github.com/betagouv/leximpact-client
-- Server code: https://github.com/betagouv/leximpact-server
+- [Project page](https://fr.openfisca.org/showcase/leximpact/)
+- [Application](https://leximpact.an.fr/)
+- [Client code](https://github.com/betagouv/leximpact-client)
+- [Server code](https://github.com/betagouv/leximpact-server)
  
 French population is affected by tax changes, inherited from regular legislative changes. It's hard to evaluate means and proposals before passing law. Impacts and revenues are often discovered too late. Wanted a tool to verify costing support and verification the correlation between the political vision and the impacts of the population.
 
@@ -41,7 +40,6 @@ People:
 - Sandra Chakroun
 - Dorine Lambinet
 - Mauko Quiroga
-
 
 
 ## New Zealand
@@ -61,5 +59,5 @@ Illustrative [example](http://nz.openfisca.org/scenarios/168) of Child disabilit
 ## Canada
 
 There appears to be some work on creating an easier-to-understand version of the CERB algorithm
-- Repo: https://github.com/wombatwombat/OpenFisca-Canada
+- [Repo](https://github.com/wombatwombat/OpenFisca-Canada)
 
