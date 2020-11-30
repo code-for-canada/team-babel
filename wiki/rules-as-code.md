@@ -25,7 +25,11 @@ Relevant source: http://complaw.stanford.edu/readings/complaw.pdf
 ### Ethical Considerations
 Since we are modelling humans, we need to be conscious of the data we use to build the model and also the data that we **omit** from the model. If we leave out some important piece of data when modelling humans, we risk ignoring certain groups.
 
-## New Zealand Case Study
+***
+
+## Previous Work
+
+### New Zealand Case Study
 - Link: https://www.digital.govt.nz/dmsdocument/95-better-rules-for-government-discovery-report/html
 - Related Article: https://apolitical.co/en/solution_article/new-zealand-explores-machine-readable-laws-to-transform-government
 - LabPlus: https://www.digital.govt.nz/blog/labplus-expanding-the-service-innovation-tookit/
@@ -40,7 +44,7 @@ Questions and next steps:
 - Identify legislative barriers to data and digital transformation to inform development of standard clauses
 - Work closely with other D7 countries: Canada, Estonia, Israel, New Zealand, South Korea, Uruguay, UK
 
-## Blawx example
+### Blawx
 
 Blawx is a free open-source web tool for encoding rules, created by Jason Morris. It is based on blockly, which is descended from MIT's scratch: 
 - https://law.mit.edu/pub/blawxrulesascodedemonstration/release/1
@@ -50,8 +54,9 @@ Blawx is a free open-source web tool for encoding rules, created by Jason Morris
 
 [OpenFisca](https://code-for-canada.github.io/team-babel/wiki/openfisca) is an open-source platform for building RaC engines.
 
+***
 
-## More Resources
+### More Resources
 
 MIT Computational Law Blog: https://law.mit.edu/
 
