@@ -1,4 +1,4 @@
-This page describes the Project Charter as outlined at the beginning of the Code for Canada fellowship. We acknowledge that some of the goals will be refined, altered, pushed back, and removed as the project is explored. For an up-to-date definition of the project, see the [Project Definition](https://github.com/codeforcanada-babel/main/wiki/Project-Definition)
+This page describes the Project Charter as outlined at the beginning of the Code for Canada fellowship. We acknowledge that some of the goals will be refined, altered, pushed back, and removed as the project is explored. For an up-to-date definition of the project, see the [Project Definition](https://code-for-canada.github.io/team-babel/wiki/project-definition)
 
 ## Background
 
@@ -49,5 +49,3 @@ Service Impact Module:
 ### Security
 This project has been scoped to specifically focus on publically available data. If using public data, then we can host the data in a cloud environment. 
 
-### Language
-Currently verifying language requirements of the project
