@@ -1,4 +1,4 @@
-Welcome to Team Babel's wiki!
+### Welcome to Team Babel
 
 We are part of the 5th cohort of fellows at Code For Canada, a non-profit that works closely with government to deliver better digital services to the public. For our fellowship, we will work with Employment and Social Development Canada (ESDC) on a solution for measuring the impact of policy changes.
 
