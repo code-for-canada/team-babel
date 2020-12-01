@@ -63,3 +63,5 @@ Blawx is a free open-source web tool for encoding rules, created by Jason Morris
 [BetterRules](https://github.com/BetterRules/example-rules-as-code)
 
 [Scott McNaughton on Medium](https://medium.com/@mcnaughton.sa/week-50-reflections-on-rules-as-code-5878ff42d43c)
+
+[18F Policy as Code](https://18f.gsa.gov/2020/05/12/rapid-implementation-of-policy-as-code/)
