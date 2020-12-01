@@ -20,7 +20,7 @@ RaC is closely aligned with the concept of [Legal Formalism](https://en.wikipedi
 
 This means that RaC may be more relevant in a civil law context, where laws are taken more literally. It is less relevant to common law, where judicial innovation is the norm. This is an important consideration. Computational law is only as powerful as deductive reasoning in general, but in reality, laws are more complicated than this and open to interpretation. 
 
-Relevant source: http://complaw.stanford.edu/readings/complaw.pdf
+[Relevant source](http://complaw.stanford.edu/readings/complaw.pdf)
 
 ### Ethical Considerations
 Since we are modelling humans, we need to be conscious of the data we use to build the model and also the data that we **omit** from the model. If we leave out some important piece of data when modelling humans, we risk ignoring certain groups.
@@ -30,11 +30,11 @@ Since we are modelling humans, we need to be conscious of the data we use to bui
 ## Previous Work
 
 ### New Zealand Case Study
-- Link: https://www.digital.govt.nz/dmsdocument/95-better-rules-for-government-discovery-report/html
-- Related Article: https://apolitical.co/en/solution_article/new-zealand-explores-machine-readable-laws-to-transform-government
-- LabPlus: https://www.digital.govt.nz/blog/labplus-expanding-the-service-innovation-tookit/
+- [Link](https://www.digital.govt.nz/dmsdocument/95-better-rules-for-government-discovery-report/html)
+- [Related Article](https://apolitical.co/en/solution_article/new-zealand-explores-machine-readable-laws-to-transform-government)
+- [LabPlus](https://www.digital.govt.nz/blog/labplus-expanding-the-service-innovation-tookit/)
 
-3 Weeks exploration to identify opportunities and challenges of creating human and machine-consumable rules for effective service delivery.
+This cae study involved a 3-week long exploration to identify opportunities and challenges of creating human and machine-consumable rules for effective service delivery.
 
 Important findings:
 - It is difficult to produce machine-consumable rules if policy has not been developed with this output in mind
@@ -47,8 +47,8 @@ Questions and next steps:
 ### Blawx
 
 Blawx is a free open-source web tool for encoding rules, created by Jason Morris. It is based on blockly, which is descended from MIT's scratch: 
-- https://law.mit.edu/pub/blawxrulesascodedemonstration/release/1
-- https://www.blawx.com/
+- [Article](https://law.mit.edu/pub/blawxrulesascodedemonstration/release/1)
+- [Blawx](https://www.blawx.com/)
 
 ### OpenFisca
 
@@ -58,9 +58,8 @@ Blawx is a free open-source web tool for encoding rules, created by Jason Morris
 
 ### More Resources
 
-MIT Computational Law Blog: https://law.mit.edu/
+[MIT Computational Law Blog](https://law.mit.edu/)
 
-BetterRules: https://github.com/BetterRules/example-rules-as-code
+[BetterRules](https://github.com/BetterRules/example-rules-as-code)
 
-Scott McNaughton:
-- https://medium.com/@mcnaughton.sa/week-50-reflections-on-rules-as-code-5878ff42d43c
+[Scott McNaughton on Medium](https://medium.com/@mcnaughton.sa/week-50-reflections-on-rules-as-code-5878ff42d43c)
