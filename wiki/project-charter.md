@@ -1,5 +1,7 @@
 This page describes the Project Charter as outlined at the beginning of the Code for Canada fellowship. We acknowledge that some of the goals will be refined, altered, pushed back, and removed as the project is explored. For an up-to-date definition of the project, see the [Project Definition](https://code-for-canada.github.io/team-babel/wiki/project-definition)
 
+[Link to the Original Project Charter Document](...)
+
 ## Background
 
 The ESDC delivers programs to many clients (old age security, CPP, EI, student loans, RESPs, etc). These programs are subject to laws and policy, some of which dates back decades. To ensure compliance, the ESDC has operational guideline and directives on how to handle applications and claims. In many cases, this guidance is unclear, conflicting, and outdated. Making changes in one place can have unintended consequences elsewhere, and it is hard to predict how a change to a program will affect people.
