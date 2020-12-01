@@ -35,9 +35,11 @@ Team is exploring creating a policy difference engine tool that would be increme
 
 Rules Module:
 - When changing a rule, we need to know how it may be connected to other related rules. This is largely a manual process, which makes it challenging to keep up to date. We may be able to improve this by adding some degree of automation that could assist in various parts of the rule-making process, such as identifying related rules that must be checked for consistency. 
+- ** Note about not making a new source of truth
 
 Cost Module:
 - If we can estimate the cost involved with rule changes using simulations, then we can prioritize certain operations. There are some existing models used for this, but they are not very reusable.
+** Expand on this
 
 Client Module:
 - Using socioeconomic indicators, we may be able to forecast effects of policy change on the clients. This may include identifying impact of a change on client eligibility, cost savings for the client, time savings, etc. Every program has indicators that define the intended effect.
