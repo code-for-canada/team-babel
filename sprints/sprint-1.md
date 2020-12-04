@@ -18,5 +18,7 @@ Nov 23 - Dec 4, 2020
 
 ## Deliverables
 
+{% include vidplayer.html %}
+
 
 ## Notes
