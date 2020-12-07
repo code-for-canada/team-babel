@@ -1,3 +1,7 @@
+## Sprint 0
+
+Nov 12 - 16, 2020
+
 Sprint 0 was a 3-day mini-sprint we did during our onboarding. It gave us the opportunity to dive into our project charter as defined by our government partner (ESDC) and start working towards a solution as a team. 
 
 ## Sprint Goals
